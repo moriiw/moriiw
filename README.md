@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Morteza Alizadeh
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning JavaScript
-
-
+- 👨🏻‍💻 Hardware Engineering Student 
+- 💙 Love web programming
 
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
